@@ -1,0 +1,19 @@
+{
+  "name": "reverse",
+  "version": "1.0.0",
+  "description": "Reverse string characters",
+  "main": "driver.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "string",
+    "reverse",
+    "jest"
+  ],
+  "author": "Jaminyah",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
